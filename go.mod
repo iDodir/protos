@@ -1,4 +1,4 @@
-module protos
+module github.com/iDodir/protos
 
 go 1.21.4
 
